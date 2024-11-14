@@ -10,6 +10,6 @@
   "author": "Trần Thanh Dương",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": ""
+    "puppeteer": "19.0.0"
   }
 }
