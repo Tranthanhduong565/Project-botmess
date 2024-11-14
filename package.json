@@ -1,0 +1,13 @@
+{
+  "name": "project-botmess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Trần Thanh Dương",
+  "license": "MIT",
+  "dependencies": {}
+}
