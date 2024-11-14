@@ -9,5 +9,7 @@
   "keywords": [],
   "author": "Trần Thanh Dương",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "puppeteer": ""
+  }
 }
